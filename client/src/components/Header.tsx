@@ -21,8 +21,11 @@ const Header = () => {
       <div className="container-custom">
         <div className="flex items-center justify-between py-3">
           <div className="flex items-center">
-            <Link href="/" className="text-primary font-serif font-bold text-2xl">
-              Modern<span className="text-secondary">Site</span>
+            <Link
+              href="/"
+              className="text-primary font-serif font-bold text-2xl"
+            >
+              Modern<span className="text-secondary"></span>
             </Link>
           </div>
 
